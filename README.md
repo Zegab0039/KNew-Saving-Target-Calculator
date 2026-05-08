@@ -1,7 +1,4 @@
-# KNew-Saving-Target-Calculator
-From Key NEWledge, KNew STC is a saving target calculator that helps people calculate their goals to make impossible dreams come true.
-
-# 👻 KNew STC - Saving Target Calculator
+## 👻 KNew STC - Saving Target Calculator
 
 From **Key NEWledge**, the KNew STC is a simple tool designed to help people calculate their financial goals and make impossible dreams come true.
 

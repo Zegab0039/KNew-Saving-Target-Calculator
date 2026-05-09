@@ -19,4 +19,4 @@ This Python-based calculator was built to solve common logic challenges like int
 5. Get your result and see your "Extra" balance!
 
 ---
-*English is not my first language, but coding is universal.*
+*English is not my first language.*
